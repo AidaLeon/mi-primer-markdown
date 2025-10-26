@@ -13,12 +13,12 @@ public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("¡Hola, mundo desde Markdown en Java!");
     }
-}
+}```
 
 ### Lista ordenada
 
-1. Primer elemento  
-2. Segundo elemento  
+1. Primer elemento
+2. Segundo elemento
 3. Tercer elemento
 
 ### Lista desordenada
